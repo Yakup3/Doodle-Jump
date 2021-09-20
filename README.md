@@ -1,8 +1,8 @@
 # Doodle-Jump
 
 ## Some photos
-![](Screenshots/Screenshot 1.png)
+![](Screenshots/Screenshot_1.png)
 
-![](Screenshots/Screenshot 2.png)
+![](Screenshots/Screenshot_2.png)
 
-![](Screenshots/Screenshot 3.png)
+![](Screenshots/Screenshot_3.png)
